@@ -59,11 +59,4 @@ REST API built using Python FastAPI for task management operations.
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: Your LinkedIn URL
-- Email: your-email@example.com
-
----
-
 ⭐ Always learning, building and improving.
